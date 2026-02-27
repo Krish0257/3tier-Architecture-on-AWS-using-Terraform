@@ -6,6 +6,8 @@ This open-source project provisions a production-ready 3-tier application archit
 It demonstrates how enterprise teams design secure, scalable, and observable cloud infrastructure using Infrastructure as Code (IaC).
 
 🏗️ Architecture
+<img width="913" height="598" alt="image" src="https://github.com/user-attachments/assets/72e056a3-e8a4-449a-95d0-00dd9dee9879" />
+
 Internet
    |
    v

@@ -97,33 +97,7 @@ Expected output:
 
 NGINX Welcome Page
 
-🔮 Roadmap
 
-🔐 Enable HTTPS with ACM
-
-🛡️ Add AWS WAF to ALB
-
-🚀 GitHub Actions CI/CD pipeline
-
-📊 Enhanced monitoring & alerts
-
-🔄 Blue/Green or rolling deployments
-
-🧠 Interview-Ready Explanation
-
-“This project showcases how to design enterprise-grade AWS infrastructure using Terraform modules, with a strong focus on security, scalability, and operational best practices.”
-
-🏆 Why This Project Matters
-
-Real enterprise architecture (not a lab demo)
-
-Modular, reusable Terraform design
-
-Secure secrets handling
-
-Production-style scaling & monitoring
-
-Ideal for DevOps / Cloud Engineer portfolios
 
 🤝 Contributing
 
